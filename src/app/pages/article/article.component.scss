@@ -1,0 +1,14 @@
+.article {
+    padding:1rem;
+    color: #474C4C;
+    border: 1px solid #dedede;
+    margin: 3px;
+    a{  
+        color: #2B1B79;
+        font-size: 1.5rem;
+        transition: all 0.8s ease-in 0.2s;
+        &:hover {
+            background: #474C4C;
+        }
+    }
+}
